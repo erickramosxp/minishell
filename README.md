@@ -349,7 +349,7 @@ $ export MY_VAR="42"
 $ env | grep MY_VAR
 ```
 
-### 👤 Author
+### 👤 Authors
 
 **Yuri Fontenele** — Estudante na [42 Rio](https://42.rio/)
 - 🐙 GitHub: [@YuriFont](https://github.com/YuriFont)
