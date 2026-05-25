@@ -185,14 +185,14 @@ $ export MY_VAR="42"
 $ env | grep MY_VAR
 ```
 
-### 👤 Autor
+### 👤 Autores
 
-**Yuri Fontenele** — Estudante na [École 42](https://42.fr)
+**Yuri Fontenele** — Estudante na [42 Rio](https://42.rio/)
 - 🐙 GitHub: [@YuriFont](https://github.com/YuriFont)
 - 🏫 Intra 42: [yufonten](https://profile.intra.42.fr/users/yufonten)
-
-> Projeto desenvolvido em colaboração com [@erramos](https://github.com/erramos).
-
+**Erick Ramos** — Estudante na [École 42](https://42.fr)
+- 🐙 GitHub: [@erickramosxp](https://github.com/erickramosxp)
+- 🏫 Intra 42: [yufonten](https://profile.intra.42.fr/users/erramos)
 ---
 
 ## 🇺🇸 English
@@ -351,12 +351,12 @@ $ env | grep MY_VAR
 
 ### 👤 Author
 
-**Yuri Fontenele** — Student at [École 42](https://42.fr)
+**Yuri Fontenele** — Estudante na [42 Rio](https://42.rio/)
 - 🐙 GitHub: [@YuriFont](https://github.com/YuriFont)
-- 🏫 42 Intra: [yufonten](https://profile.intra.42.fr/users/yufonten)
-
-> Project developed in collaboration with [@erramos](https://github.com/erramos).
-
+- 🏫 Intra 42: [yufonten](https://profile.intra.42.fr/users/yufonten)
+**Erick Ramos** — Estudante na [École 42](https://42.fr)
+- 🐙 GitHub: [@erickramosxp](https://github.com/erickramosxp)
+- 🏫 Intra 42: [yufonten](https://profile.intra.42.fr/users/erramos)
 ---
 
 <div align="center">
