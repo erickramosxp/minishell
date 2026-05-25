@@ -12,7 +12,7 @@
 [![Build: Make](https://img.shields.io/badge/Build-GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/make/)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![School: 42](https://img.shields.io/badge/42-School%20Project-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
-[![Score: 125/100](https://img.shields.io/badge/Score-125%2F100-brightgreen?style=for-the-badge)](https://42.fr)
+[![Score: 125/100](https://img.shields.io/badge/Score-101%2F100-brightgreen?style=for-the-badge)](https://42.fr)
 
 <br>
 
